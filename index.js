@@ -9,5 +9,5 @@ function fatBastard(meal) {
     }
   }
 
-  return whatsForDinner;
+  return whatsForDinner();
 }
